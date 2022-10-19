@@ -1,3 +1,32 @@
+
+# Amazon-clone
+
+This is a fake clone of Amazon, a full stack E-commerce app with payment gateway.
+
+## Screenshots
+
+![App Screenshot]()
+
+## Tech Stack
+
+**Client:** React, Context API, CSS
+
+**Server:** Firebase, Express
+
+
+## Related
+
+Here are some related projects
+
+[Florista](https://github.com/far-hana/Locofy-Florista)
+
+
+## Live
+
+https://clone-d9201.web.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
